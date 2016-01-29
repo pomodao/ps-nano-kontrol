@@ -8,7 +8,7 @@ Click to watch demo video.
 
 - Adobe Photoshop CC (only tested on CC 2015)
 - node.js and npm
-- Python 2.7 and Visual C++ Build Tools on Windows, to build [midi](https://www.npmjs.com/package/midi) package with node-gyp (see [the instructions](https://github.com/nodejs/node-gyp/issues/629#issuecomment-153196245).)
+- Python 2.7 and C compiler to build [midi](https://www.npmjs.com/package/midi) package with node-gyp (on Windows, see [the instructions](https://github.com/nodejs/node-gyp/issues/629#issuecomment-153196245).)
 
 ## Setup
 
