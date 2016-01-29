@@ -1,0 +1,33 @@
+{
+  "name": "ps-nano-kontrol",
+  "version": "0.1.0",
+  "description": "Photoshop Generator plug-in for KORG nanoKONTROL/2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/generator-core/app.js -f ."
+  },
+  "author": "pomo",
+  "license": "MIT",
+  "dependencies": {
+    "generator-core": "^3.2.0",
+    "korg-nano-kontrol": "^0.2.6",
+    "midi": "^0.9.4"
+  },
+  "generator-core-version": ">=1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomodao/ps-nano-kontrol.git"
+  },
+  "keywords": [
+    "Photoshop",
+    "Generator",
+    "nanoKONTROL",
+    "midi"
+  ],
+  "bugs": {
+    "url": "https://github.com/pomodao/ps-nano-kontrol/issues"
+  },
+  "homepage": "https://github.com/pomodao/ps-nano-kontrol#readme"
+}

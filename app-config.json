@@ -1,0 +1,15 @@
+{
+  "interval": 200,
+  "mapping": {
+    "knob:0": "BRUSH_SIZE",
+    "slider:0": "FGCOLOR_HSB_HUE",
+    "slider:1": "FGCOLOR_HSB_SATURATION",
+    "slider:2": "FGCOLOR_HSB_BRIGHTNESS",
+    "slider:3": "BGCOLOR_HSB_HUE",
+    "slider:4": "BGCOLOR_HSB_SATURATION",
+    "slider:5": "BGCOLOR_HSB_BRIGHTNESS",
+    "button:s:0": "SET_TOOL_BRUSH",
+    "button:m:0": "SET_TOOL_ERASER"
+  },
+  "debug": false
+}
